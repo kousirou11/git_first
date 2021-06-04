@@ -1,1 +1,1 @@
-gti add .
+print(222*555)
